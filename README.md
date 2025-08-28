@@ -17,11 +17,13 @@ We use:
 
 ## 📊 Dataset
 
+The Dataset is very large and it is not being uploaded in the github so im uploading just some rows here.
 - Each row represents a transaction.
 - Features include transaction details (amount, frequency, account activity, etc.).
 - Target variable:
   - `0` → Legitimate transaction  
-  - `1` → Fraudulent transaction  
+  - `1` → Fraudulent transaction
+
 
 ⚠️ Note: Dataset is not included here for confidentiality reasons. Replace with your dataset before running.
 
